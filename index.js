@@ -1,3 +1,3 @@
 function myName(){
-    console.log('gerol')
+    console.log('bob')
 }
